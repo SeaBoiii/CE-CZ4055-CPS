@@ -91,9 +91,9 @@ CE-CZ4055-CPS/
    pip install -r requirements.txt
    ```
 
-   Alternatively, install packages individually:
+   Alternatively, you can install packages individually (ensure versions match requirements.txt):
    ```bash
-   pip install numpy==1.21.6 pandas==1.3.5 matplotlib==3.5.1 scipy==1.7.3 PyQt5==5.15.6
+   pip install numpy pandas matplotlib scipy PyQt5
    ```
 
 3. **Verify installation**
