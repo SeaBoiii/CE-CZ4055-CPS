@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![README Logo](logo.png)
+![Correlation Power Analysis Project Logo](logo.png)
 
 **Implementation of Correlation Power Analysis for AES Encryption**
 
